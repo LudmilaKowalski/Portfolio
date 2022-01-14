@@ -1,0 +1,74 @@
+body {
+    background: rgb(9,9,121);
+    background: radial-gradient(circle, rgba(9,9,121,1) 19%, rgba(0,0,0,1) 68%);
+    color : white;
+  
+}
+
+nav {
+    color: white;
+}
+
+
+
+h1 {
+    margin-top: 5rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30rem;
+    font-size: 4rem;
+}
+
+img {
+   border: rgba(0,0,0,1);
+   border-radius: 1rem;
+}
+
+img:hover {
+    filter: brightness(110%);
+}
+
+.responsive {
+    width: 70%;
+    height: auto;
+  }
+/*
+div {
+    padding-top: 2rem;
+}
+*/
+a:link {
+    color: white;
+    text-decoration: none;
+  }
+  
+ 
+  a:visited {
+    color: darkgrey;
+    text-decoration: none;
+  }
+  
+
+  a:hover {
+    color: blue;
+  }
+  
+  
+  a:active {
+    color: purple;
+    text-decoration: none;
+  }
+
+.website {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#title2 {
+    font-size: 3.5rem;
+}
+
+#contact {
+    font-size: 3.5rem;
+}
