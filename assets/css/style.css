@@ -10,7 +10,7 @@ body {
   
 }
 
-#wrapper {margin-top:-2rem; font-family:'Dancing Script', cursive;}
+#wrapper {margin-top:-2rem; }
 #wrapper h1 { font-size:4rem;  font-weight:5rem; }
 
 /* Animations des lettres */
@@ -49,7 +49,7 @@ nav {
   text-align: left;
     align-items: center;
     justify-content: center;
-    font-family:'Dancing Script', cursive;
+   
 }
 
 .subtitle {
@@ -62,7 +62,7 @@ nav {
   text-align: right;
     align-items: right;
     justify-content: center;
-    font-family:'Dancing Script', cursive;
+    
 }
 
 .subsubtitle {
