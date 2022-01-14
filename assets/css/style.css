@@ -1,6 +1,8 @@
 body {
    /* background: rgb(9,9,121);
     background: radial-gradient(circle, rgba(9,9,121,1) 19%, rgba(0,0,0,1) 68%);*/
+    margin: 0;
+    padding: 0;
     color : white;
     transition:background-color 4s ease; background:linear-gradient(70deg,#000000,#8693d9,#393766,#86BAD9,#9DFADB); background-size:auto; background-size:500% 250%; animation:degradeFond 30s ease infinite;}
 @keyframes degradeFond {
@@ -39,6 +41,8 @@ h1 span {opacity:0;}
 nav {
     color: white;
 }
+
+
 
 
 
@@ -160,4 +164,24 @@ a:link {
 
 #contact {
     font-size: 3.5rem;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
