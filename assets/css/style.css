@@ -67,6 +67,7 @@ nav {
     align-items: right;
     justify-content: center;
     
+    
 }
 
 .subsubtitle {
@@ -79,6 +80,7 @@ nav {
   text-align: right;
     align-items: right;
     justify-content: center;
+
    
 }
 
@@ -100,7 +102,7 @@ img {
 }
 
 img:hover {
-    filter: brightness(110%);
+    filter: brightness(109%);
 }
 
 .responsive {
