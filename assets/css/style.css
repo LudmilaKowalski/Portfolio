@@ -111,23 +111,23 @@ img:hover {
   }
 
 .site1 {
-    padding-bottom: 5rem;
+    padding-bottom: 6rem;
 }
 
 .site2 {
-  padding-bottom: 5rem;
+  padding-bottom: 6rem;
 }
 
 .site3 {
-  padding-bottom: 5rem;
+  padding-bottom: 6rem;
 }
 
 .site4 {
-  padding-bottom: 5rem;
+  padding-bottom: 6rem;
 }
 
 .site5 {
-  padding-bottom: 5rem;
+  padding-bottom: 6rem;
 }
 
 a:link {
@@ -161,7 +161,7 @@ a:link {
 }
 
 #title2 {
-    font-size: 3.5rem;
+    font-size: 4rem;
 }
 
 #contact {
@@ -186,4 +186,8 @@ a:link {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+h2 {
+  font-size: 3rem;
 }
